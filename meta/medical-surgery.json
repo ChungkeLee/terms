@@ -1,0 +1,20 @@
+{
+  "id": "medical-surgery",
+  "name": "Medical - Surgery",
+  "description": "Surgery glossary based on the Chinese-English term index of Surgery (10th Edition).",
+  "author": "immersive",
+  "glossary": "medical-surgery",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "医学-外科学",
+      "description": "医学-外科学术语库，包含外科学相关中英文术语。"
+    },
+    "en": {
+      "name": "Medical - Surgery",
+      "description": "Surgery glossary based on the Chinese-English term index of Surgery (10th Edition)."
+    }
+  }
+}

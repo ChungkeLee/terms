@@ -1,0 +1,20 @@
+{
+  "id": "medical-internal-medicine",
+  "name": "Medical - Internal Medicine",
+  "description": "Internal medicine glossary based on the Chinese-English term index of Internal Medicine (10th Edition).",
+  "author": "immersive",
+  "glossary": "medical-internal-medicine",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "医学-内科学",
+      "description": "医学-内科学术语库，包含《内科学（第10版）》中英文名词对照索引中的内科学相关术语中文翻译。"
+    },
+    "en": {
+      "name": "Medical - Internal Medicine",
+      "description": "Internal medicine glossary based on the Chinese-English term index of Internal Medicine (10th Edition)."
+    }
+  }
+}
